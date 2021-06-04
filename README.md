@@ -1,6 +1,6 @@
 # Project Summary
 
-Scraping Reddint r/Wallstreetbets data to discover who the most influential users are on the subreddit.
+Scraping Reddit r/Wallstreetbets data to discover who the most influential users are on the subreddit.
 
 Teammates:
 [Dawson Cook](https://www.linkedin.com/in/dawson-cook/), 
